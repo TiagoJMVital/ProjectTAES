@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_coinPackage</name>
+   <tag></tag>
+   <elementGuidId>eed1d953-b086-4d38-b6ec-934dc3d4ee81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/div[2]/div[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>895b9036-880c-48fa-81ff-3989cbf132f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-slate-200 rounded-xl p-4 text-center hover:border-emerald-500 hover:bg-emerald-50 hover:shadow-md transition-all group disabled:opacity-50</value>
+      <webElementGuid>da4b8b20-2cff-46ea-a841-8dfeafaa04f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>💎50 Coins4.50€ </value>
+      <webElementGuid>23e951c0-7f4d-40c8-90d0-6f6126f84a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen bg-slate-50 py-10 px-4 font-sans&quot;]/div[@class=&quot;max-w-4xl mx-auto space-y-6&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center p-4&quot;]/div[@class=&quot;relative bg-white rounded-2xl shadow-2xl w-full max-w-xl overflow-hidden transform transition-all scale-100&quot;]/div[@class=&quot;p-8&quot;]/div[@class=&quot;grid grid-cols-2 gap-4&quot;]/button[@class=&quot;border border-slate-200 rounded-xl p-4 text-center hover:border-emerald-500 hover:bg-emerald-50 hover:shadow-md transition-all group disabled:opacity-50&quot;]</value>
+      <webElementGuid>8f744061-7100-4a92-ab9f-0850df077cb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>7fe45e20-0f4d-4faf-ba4b-81c8cd50e3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='💰'])[1]/following::button[1]</value>
+      <webElementGuid>bf9c7c2a-fb17-46f7-a891-337637d4fcb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::button[2]</value>
+      <webElementGuid>5425ce47-c021-497a-b117-b424d433454f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='👑'])[1]/preceding::button[1]</value>
+      <webElementGuid>745518e0-7149-4fba-95b4-d9258b57af94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>db54deb0-b28a-463e-bbe2-ff26cd88ddbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '💎50 Coins4.50€ ' or . = '💎50 Coins4.50€ ')]</value>
+      <webElementGuid>8e0b0ac9-386a-4343-85d6-7ee1ae4feb3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

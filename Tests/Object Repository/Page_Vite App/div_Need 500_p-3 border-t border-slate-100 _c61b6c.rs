@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Need 500_p-3 border-t border-slate-100 _c61b6c</name>
+   <tag></tag>
+   <elementGuidId>3f4eefa6-b3aa-4415-a4aa-3aa1235062bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/div[5]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e47c9ba-e8cc-4ef3-97dc-92097c110add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 border-t border-slate-100 text-center bg-white space-y-2</value>
+      <webElementGuid>4a85d30c-f536-4414-aa26-15bfec39540a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ZombieNeed 500 💰</value>
+      <webElementGuid>bd41c5c8-e90e-4833-8ff2-4baf751752a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;max-w-5xl mx-auto p-6 space-y-8&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 gap-6&quot;]/div[@class=&quot;bg-card text-card-foreground gap-6 rounded-xl border py-6 shadow-sm md:col-span-2 min-h-[500px] flex flex-col&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;grid grid-cols-2 sm:grid-cols-3 gap-4&quot;]/div[@class=&quot;border border-slate-200 rounded-xl overflow-hidden hover:shadow-lg transition-all group bg-white flex flex-col&quot;]/div[@class=&quot;p-3 border-t border-slate-100 text-center bg-white space-y-2&quot;]</value>
+      <webElementGuid>800b7870-17f9-4c41-88bc-bb7042376491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/div[5]/div[2]</value>
+      <webElementGuid>3e7a94e5-fcb8-43f7-acdf-69c82f16458c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need 500 💰'])[1]/following::div[3]</value>
+      <webElementGuid>1c2dc047-00aa-444f-8999-f883d834d5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alien'])[1]/following::div[3]</value>
+      <webElementGuid>84ff0d0e-87f8-47cf-9e6d-52018b8ba701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>ec6f3583-3f2a-4022-8e1d-3d363d7f427f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ZombieNeed 500 💰' or . = 'ZombieNeed 500 💰')]</value>
+      <webElementGuid>75635a30-5563-43cf-95a4-d955f62d1346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/div[6]/div[2]</value>
+      <webElementGuid>d270479f-e0a8-4f42-895d-82948da85252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need 500 💰'])[2]/following::div[3]</value>
+      <webElementGuid>7d0e0b8b-63e0-432c-bfee-36c72da4ecc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zombie'])[1]/following::div[3]</value>
+      <webElementGuid>795ab1f9-1cf9-4f29-9a3f-eaaa0bbb27d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>06392bd3-4d71-4268-bea4-e597bd4f8898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MarioNeed 1000 💰' or . = 'MarioNeed 1000 💰')]</value>
+      <webElementGuid>8574d5eb-32b4-4086-bcd0-18eb7781118c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

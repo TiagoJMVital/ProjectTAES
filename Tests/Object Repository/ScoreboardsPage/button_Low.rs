@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Low</name>
+   <tag></tag>
+   <elementGuidId>64bd4bb9-8bac-41e8-9faa-5baf038264f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[title=&quot;Lowest First&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[3]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00fd205e-f184-4f88-a09e-2a3f981e565b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Lowest First</value>
+      <webElementGuid>bb85e9dd-6dea-4d8c-9e70-627e93d38dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>⬆️ Low</value>
+      <webElementGuid>241e8606-c1a6-47ac-9f44-ccf41d803728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;scoreboard-container&quot;]/div[2]/div[@class=&quot;global-wrapper&quot;]/div[@class=&quot;filter-card&quot;]/div[@class=&quot;filter-group&quot;]/div[@class=&quot;toggle-sort&quot;]/button[2]</value>
+      <webElementGuid>06887aa4-90df-4c35-980a-93f011930825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[3]/div/button[2]</value>
+      <webElementGuid>04cb3ff4-e873-424f-a24e-c7d5931d592d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⬇️ High'])[1]/following::button[1]</value>
+      <webElementGuid>74a7647e-b2b8-4347-a554-7c1eade3181b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/following::button[2]</value>
+      <webElementGuid>fb8e13a3-04ae-493a-b26c-17cd8f020abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[1]</value>
+      <webElementGuid>63477d22-e011-4ffd-813d-c4d34196a6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Player'])[1]/preceding::button[1]</value>
+      <webElementGuid>d913018c-7c91-4481-9a25-8cbf56bf4f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='⬆️ Low']/parent::*</value>
+      <webElementGuid>2e23f36f-ced2-4f6f-ba65-1ace2d8afe91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]</value>
+      <webElementGuid>85e5003b-61d2-4398-8c16-7fd25561bee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Lowest First' and (text() = '⬆️ Low' or . = '⬆️ Low')]</value>
+      <webElementGuid>2f8b8e45-c1de-4937-8b64-ee80d7e17dbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

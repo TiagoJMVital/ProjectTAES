@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_My Wardrobe (6)_flex-1 py-4 text-sm _18754e</name>
+   <tag></tag>
+   <elementGuidId>0bd076af-4fe8-4f99-998d-a1e317251f24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b858f8c1-3c50-49bc-99b9-73a44008818b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 py-4 text-sm font-semibold transition-colors border-b-2 border-transparent text-slate-500 hover:bg-slate-50</value>
+      <webElementGuid>14c22d41-fbac-46a1-b27b-9193612c13b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Avatar Shop (7) </value>
+      <webElementGuid>987cae11-2568-46c3-9ab4-12cd380731e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;max-w-5xl mx-auto p-6 space-y-8&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 gap-6&quot;]/div[@class=&quot;bg-card text-card-foreground gap-6 rounded-xl border py-6 shadow-sm md:col-span-2 min-h-[500px] flex flex-col&quot;]/div[@class=&quot;flex border-b border-slate-100&quot;]/button[@class=&quot;flex-1 py-4 text-sm font-semibold transition-colors border-b-2 border-transparent text-slate-500 hover:bg-slate-50&quot;]</value>
+      <webElementGuid>57e1af6d-2187-4640-901f-e2619d1e589e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>4233a7ea-99b6-46b9-85fe-52ed721d44f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wardrobe (6)'])[1]/following::button[1]</value>
+      <webElementGuid>1c0d7e38-dcda-42eb-a0b6-2987741df4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avatar Shop (7)']/parent::*</value>
+      <webElementGuid>271961bc-c700-444f-a32c-d3299b5487b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>c78677ba-1619-45b3-83d2-0e1d3b4958ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Avatar Shop (7) ' or . = ' Avatar Shop (7) ')]</value>
+      <webElementGuid>06070f78-c777-47c8-9649-79ebf9cb6a5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstMatchDate</name>
+   <tag></tag>
+   <elementGuidId>0e9bc4c2-ebe0-48ec-9675-726cca3ec7db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-sm.text-gray-600</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='app']/div/div/div/div[2]/div/h3/div/div/span)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;21/11/2025&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bad738ed-9f3e-46fb-af64-d1270c4f7e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-gray-600</value>
+      <webElementGuid>ac48f41c-7ec3-4321-94cb-4b166faf0a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21/11/2025 </value>
+      <webElementGuid>22fb6de7-0804-4429-9c44-cd8843ef7655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen bg-gradient-to-b from-emerald-10 to-emerald-100 flex flex-col font-sans select-none&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-5 mt-10 p-4&quot;]/div[@class=&quot;bg-card text-card-foreground flex flex-col gap-6 border py-6 shadow-sm w-full max-w-4xl rounded-lg relative hover:scale-105 transition-transform duration-300 ease-in-out bg-radial from-red-400 to-rose-500&quot;]/div[@class=&quot;@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6&quot;]/h3[@class=&quot;text-xl font-semibold text-gray-900&quot;]/div[@class=&quot;grid grid-cols-[1fr_auto_1fr] items-center w-full p-6&quot;]/div[@class=&quot;text-left&quot;]/span[@class=&quot;text-sm text-gray-600&quot;]</value>
+      <webElementGuid>b96ccb26-57bb-4941-86de-d83ca5c8c707</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/h3/div/div/span</value>
+      <webElementGuid>22c8fd81-b8b0-49e0-b86f-1a2982885bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Game History'])[2]/following::span[1]</value>
+      <webElementGuid>f58e5480-36e3-4f35-afbc-9cb48200f295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Player A'])[1]/following::span[2]</value>
+      <webElementGuid>d4cfcf58-965b-401c-930b-08719259d804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3 - 4)'])[1]/preceding::span[2]</value>
+      <webElementGuid>1032161b-3906-4bb9-bb59-32a7941cca59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Player A'])[2]/preceding::span[3]</value>
+      <webElementGuid>d640aa7b-21b5-4923-9354-0aff732d616f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='21/11/2025']/parent::*</value>
+      <webElementGuid>657dbdbe-df95-4d3e-99e7-52915374ea5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/div/div/span</value>
+      <webElementGuid>8c9d2399-3294-441d-8144-705628bd87b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '21/11/2025 ' or . = '21/11/2025 ')]</value>
+      <webElementGuid>8e3376f3-f276-41c0-b12e-7aa89356e637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
